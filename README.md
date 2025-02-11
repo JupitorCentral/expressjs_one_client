@@ -51,3 +51,4 @@ Vite, React, TypeScript에 대해 더 자세히 알아보려면 다음 리소스
 - [Vite 공식 문서](https://vitejs.dev/guide/)
 - [React 공식 문서](https://reactjs.org/docs/getting-started.html)
 - [TypeScript 공식 문서](https://www.typescriptlang.org/docs/)
+
