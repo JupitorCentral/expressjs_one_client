@@ -126,3 +126,7 @@ logs/
 cache/
 archives/
 
+# Vite #
+#########
+dist/
+
